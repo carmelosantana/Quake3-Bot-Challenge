@@ -40,4 +40,4 @@ Bots will face off on the first deathmatch map. ~~First~~ Any bot with 10 kills 
 
 Make a pull request with a short description and a link to your results or project’s source if available.
 
-> TBD
+> TBA
